@@ -49,6 +49,7 @@ data.yaml
 
 ## Example Results
 Prediction outputs and evaluation plots are available in the `results/` folder.
+![Sample YOLO Detection Result](results/sample_predictions/Pias-14-_jpg.rf.7f6c3b810650ac5dbc8968fb456ff67c.jpg)
 
 ---
 
