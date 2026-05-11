@@ -69,3 +69,11 @@ Prediction outputs and evaluation plots are available in the `results/` folder.
 - Docker containerization
 - ROS2 integration
 - Advanced hyperparameter tuning
+
+---
+
+### Benchmark Results
+
+- Total test images: 298
+- Average inference time: 0.0508 seconds/image
+- Estimated FPS: 19.67
