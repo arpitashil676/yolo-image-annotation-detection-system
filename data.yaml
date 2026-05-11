@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../test/images
+test: ../test/images
+
+nc: 24
+names: ['0', '1', '10', '11', '12', '13', '13 0 0 0 0', '14', '15', '16', '17', '18', '19', '2', '20', '20 0 0 0 0', '3', '4', '4 0 0 0 0', '5', '6', '7', '8', '9']
+
+roboflow:
+  workspace: arpitashil676-gmail-com
+  project: vehicle-yolo-v8-2tyjn
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arpitashil676-gmail-com/vehicle-yolo-v8-2tyjn/dataset/1

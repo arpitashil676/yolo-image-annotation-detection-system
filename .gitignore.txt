@@ -1,0 +1,7 @@
+runs/
+train/
+test/
+augmented_images/
+*.pt
+*.zip
+__pycache__/
